@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: New Layer 1
+    uniqueID: 388888321
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New LL 2
+    uniqueID: 3794489763
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3599551063
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3326455117
     locked: 0
